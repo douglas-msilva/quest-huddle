@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  height: 100vh;
+}
+
+body {
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "main main"
+    "footer footer";
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  padding: 60px;
+}
+
+body.background {
+  background: url(../images/bg-desktop.svg) center center no-repeat;
+  background-size: cover;
+  background-color: var(--primary-color);
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+}
