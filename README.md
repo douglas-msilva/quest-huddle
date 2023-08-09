@@ -44,10 +44,10 @@ Os usuários devem:
 
 ### O que eu aprendi
 
-```
+
 Com os conceitos de flexbox e grid consegui aplicá-los e compreender melhor o funcionamento destas propriedades.
 Minha maior dificuldade foi na parte responsiva para diferentes tamanhos de tela, mas deu tudo certo no final. Os resumos ajudaram bastante 😁
-```
+
 
 
 
