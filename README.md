@@ -44,10 +44,17 @@ Os usuários devem:
 
 ### O que eu aprendi
 
+<<<<<<< HEAD
 `
 Com os conceitos de flexbox e grid consegui aplicá-los e compreender melhor o funcionamento destas propriedades.
 Minha maior dificuldade foi na parte responsiva para diferentes tamanhos de tela, mas deu tudo certo no final. Os resumos ajudaram bastante 😁
 `
+=======
+
+Com os conceitos de flexbox e grid consegui aplicá-los e compreender melhor o funcionamento destas propriedades.
+Minha maior dificuldade foi na parte responsiva para diferentes tamanhos de tela, mas deu tudo certo no final. Os resumos ajudaram bastante 😁
+
+>>>>>>> 793fa275fcdcc4b0d60fb109be75ff91c8861e57
 
 
 
