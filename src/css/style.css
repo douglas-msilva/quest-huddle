@@ -79,7 +79,7 @@
   grid-area: footer;
 }
 
-.footer .item{
+.footer .item nav ul{
     display: flex;
     justify-content: flex-end;
 }

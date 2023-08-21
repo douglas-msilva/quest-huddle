@@ -20,6 +20,8 @@ body {
   font-family: "Poppins", sans-serif;
   color: #fff;
   padding: 60px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 body.background {
