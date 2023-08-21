@@ -45,6 +45,10 @@
     align-items: center;
     margin-top: 60px;
   }
+
+  .footer .item i{
+    font-size: 3rem;
+  }
 }
 
 @media (max-width: 800px) {
@@ -127,6 +131,10 @@
     font-size: 1.2rem;
     padding: 15px 60px;
   }
+
+    .footer .item i{
+    font-size: 2rem;
+  }
 }
 
 @media (max-width: 393px) {
@@ -191,12 +199,14 @@
 }
 
 .footer .item nav ul li a i{
-    font-size: 2.7rem;
+    font-size: 1.7rem;
 }
 
 .footer .item nav ul{
     margin-top: 0;
 }
+
+  
 
 }
 
